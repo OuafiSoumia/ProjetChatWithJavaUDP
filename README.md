@@ -19,7 +19,21 @@ Pour Tester:
 NB: l’utilisateur abdo123 n'appartient au groupe g_sisters(qui inclut les utilisateurs soumia,sara,yassine) donc il si il a essayé d'envoyer un message a ce groupe ,un message d'erreur va l'interdit.
 +l'utilisation de g_ et u_ est fait pour distinguer le nom du groupe du nom de l'utilisateur dans le cas où ils ont le même nom
 pour ce deconnecter clicker sur quitter (pour fermer sa session).
+Pour ce connecter:
 ![image](https://user-images.githubusercontent.com/94236541/213663849-ec23057e-1ce7-44b9-88c1-4fc18af178da.png)
+![image](https://user-images.githubusercontent.com/94236541/213664077-2456d9b9-6237-4f98-9ecd-e431f176ebe0.png)
+![image](https://user-images.githubusercontent.com/94236541/213664444-0e566125-5148-49cc-8247-d70f46eb9794.png)
+Pour la voir la liste des amis connecter :
+![image](https://user-images.githubusercontent.com/94236541/213664663-af869aa6-9eaa-42a2-b043-22878129e24f.png)
+Pour fair un Brodcast "ALL":
+![image](https://user-images.githubusercontent.com/94236541/213665097-6981b28e-36dc-4666-98ca-b63d6a744892.png)
+Pour envoyer un message a un seul utilisateur:
+![image](https://user-images.githubusercontent.com/94236541/213665303-828d6cfe-e26f-40b2-b703-e7b46b1ccb34.png)
+Pour envoyer a un message a un groupe:
+![image](https://user-images.githubusercontent.com/94236541/213665450-cf00a07f-db1b-405c-b426-582507297fc0.png)
+acces interdit au group ,l'utilisateur n'appartient pas au group:
+![image](https://user-images.githubusercontent.com/94236541/213665869-a6f50682-b9ba-4d3c-aa80-2da7d4484d1a.png)
+
 
 
  
