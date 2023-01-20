@@ -19,5 +19,7 @@ Pour Tester:
 NB: l’utilisateur abdo123 n'appartient au groupe g_sisters(qui inclut les utilisateurs soumia,sara,yassine) donc il si il a essayé d'envoyer un message a ce groupe ,un message d'erreur va l'interdit.
 +l'utilisation de g_ et u_ est fait pour distinguer le nom du groupe du nom de l'utilisateur dans le cas où ils ont le même nom
 pour ce deconnecter clicker sur quitter (pour fermer sa session).
+![image](https://user-images.githubusercontent.com/94236541/213663849-ec23057e-1ce7-44b9-88c1-4fc18af178da.png)
+
 
  
